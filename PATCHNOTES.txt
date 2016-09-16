@@ -1,0 +1,2 @@
+V.0.0.0	:First attempt at implementing Tweepy and Dictionaries.
+V.0.0.1	:Made it so the dictionary converts the strings to numbers for the counters.
